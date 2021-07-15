@@ -1,0 +1,16 @@
+.section {
+  height: 100vh;
+  background-color: #1e1e1e;
+  color: #eee;
+  scroll-snap-align: start;
+}
+
+.greetingText {
+  margin-top: 25vh;
+  font-size: 4em;
+  margin-left: 50%;
+
+  @media only screen and (max-width: 600px) {
+    margin-left: 25%;
+  }
+}

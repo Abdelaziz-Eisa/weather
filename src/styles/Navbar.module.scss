@@ -1,0 +1,13 @@
+.navbar {
+  padding: 1em;
+  position: fixed;
+  top: 4em;
+  right: -2em;
+  transform: rotate(90deg);
+  display: flex;
+
+  a {
+    text-decoration: none;
+    color: #eee;
+  }
+}

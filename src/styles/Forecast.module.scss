@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+}
+
+.input {
+  margin-bottom: 1em;
+  height: 1.75em;
+  background-color: aliceblue;
+  border: 0;
+  width: 15em;
+}
+
+.button {
+  background-color: #07f;
+  color: #eee;
+  border: 0;
+  padding: 0 1em;
+  height: 1.75em;
+  font-family: sans-serif;
+}
+
+.errorText {
+  color: #e00;
+  text-transform: uppercase;
+}
